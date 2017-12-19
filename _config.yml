@@ -51,10 +51,10 @@ category_page: '/blog/categories/'
 
 hero:
   image: https://jjmstars.github.io/public/skyline.jpg
-  caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
+  caption: Fail big ! Be ambitious ! I can do it
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-93172815-1' # leave blank if you don't want google analytics
+google_analytics_token: 'UA-99892286-1' # leave blank if you don't want google analytics
 #disqus_short_name: 'ratsgo-github-io' # leave blank if you don't want disqus
 
