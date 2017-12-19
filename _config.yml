@@ -24,12 +24,12 @@ version: 1.0.0
 # About/contact
 author:
   name: jjmstars
-  description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
+  description: <strong>To be Great Data Scientist</strong></br> 같은 생각, 다른 행동
   gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/junmo-jeong-144a91144//
-    github:    github.com/jjmstars
-    facebook:  facebook.com/junemo.jeong
+    github:    https://www.github.com/jjmstars
+    facebook:  https://www.facebook.com/junemo.jeong
     #twitter:  <hide>
     #weibo:    <hide>
     email:     mailto:jjmstars3@gmail.com
