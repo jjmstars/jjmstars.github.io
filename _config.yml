@@ -51,7 +51,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: https://jjmstars.github.io/public/skyline.jpg
-  caption: Fail big ! Consist progress
+  caption: Fail big ! 
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-99892286-1' # leave blank if you don't want google analytics
