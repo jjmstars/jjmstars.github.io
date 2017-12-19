@@ -23,16 +23,16 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: ratsgo
+  name: jjmstars
   description: <strong>보물찾기</strong> 그리운 마을, 그 먼 바다에 이르기까지
   gravatar: 0a638fc7996869b1b67fb90ccf77dcfe # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/gichanglee/
-    github:    https://github.com/ratsgo
-    facebook:  https://www.facebook.com/gichanglee.84
+    linkedin:  https://www.linkedin.com/in/junmo-jeong-144a91144//
+    github:    https://github.com/jjmstars
+    facebook:  https://www.facebook.com/junemo.jeong
     #twitter:  <hide>
     #weibo:    <hide>
-    email:     mailto:gichang_lee@korea.ac.kr
+    email:     mailto:jjmstars3@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -50,7 +50,7 @@ tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
 hero:
-  image: https://ratsgo.github.io/public/img/picture.JPG
+  image: https://jjmstars.github.io/public/skyline.jpg
   caption: Original Artwork &copy; Pablo Picasso. Girl before a Mirror. Boisgeloup, March 1932. Oil on canvas
 
 # Puglins
