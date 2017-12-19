@@ -1,5 +1,4 @@
-junmo's blog
-Hi /br
-E-mail : jjmstars3@gmail.com
+junmo's blog </br>
+E-mail : jjmstars3@gmail.com</br>
 
 blog : jjmstars.gitgub.io
