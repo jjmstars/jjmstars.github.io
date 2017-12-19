@@ -2,4 +2,4 @@
 
 E-mail : jjmstars3@gmail.com</br>
 
-blog : jjmstars.gitgub.io("jjmstars.github.io")
+blog : https://jjmstars.gitgub.io
