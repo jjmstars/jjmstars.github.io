@@ -33,6 +33,7 @@ author:
     #twitter:  <hide>
     #weibo:    <hide>
     email:     mailto:jjmstars3@gmail.com
+    instagram: jjmstars
 
 # Navigation (2nd level links supported)
 nav:
@@ -51,7 +52,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: https://jjmstars.github.io/public/skyline.jpg
-  caption: Fail big ! 
+  caption: Future is here. Fail big!
 # Puglins
 mathjax: true # whether support mathjax
 google_analytics_token: 'UA-99892286-1' # leave blank if you don't want google analytics
