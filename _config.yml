@@ -24,7 +24,8 @@ version: 1.0.0
 # About/contact
 author:
   name: jjmstars
-  description: <strong>To be Great Data Scientist</strong></br> 같은 생각, 다른 행동
+  description: <strong>To be Great Data Scientist</strong></br> 
+Same idea, different behavior
   gravatar: 58762ac605828c0ce5698045c3d54ccf # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/in/junmo-jeong-144a91144/
