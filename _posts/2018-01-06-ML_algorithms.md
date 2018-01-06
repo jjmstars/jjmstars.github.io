@@ -1,7 +1,7 @@
 ---
 title: Machine-learning 알고리즘 몇가지 둘러보기
-category: Machine Learning 
-tag: [Algorithm,Machine-learning]
+category: Machine-learning 
+tag: [Algorithm,Machine-learning,ML]
 ---
 
 이번 글에서는 한국어의 부정 표현에 대해 살펴보도록 하겠습니다. 이번 글은 고려대 정연주 선생님 강의를 정리했음을 먼저 밝힙니다. 그럼 시작하겠습니다.
