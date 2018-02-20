@@ -36,5 +36,23 @@ ex)
 2. b의 제곱근을 구해 결과로 돌려준다.
 
 
-![image](https://postfiles.pstatic.net/MjAxODAyMjBfNzMg/MDAxNTE5MTE0MjE2NjM5.Qrx30JDqMGskn1UKIfGxQEZO5jDMvHeMYw7l_2cGvs0g.-xvxSlezXXK4zZEfxhyeDDB0WQ9nygt4Vz4Xc2kwUtUg.PNG.jjmstars7/image.png?type=w773)
+```python
+import math # 수학 모듈 사용
+def abs_sign(a):
+    if a>=0:
+        return a
+    else:
+        return -a
+
+def abs_square(a):
+    b = a*a 
+    return math.sqrt(b) # 수학 모듈의 제곱근 함수
+
+print(abs_sign(5))
+print(abs_sign(-3))
+print()
+print(abs_square(5))
+print(abs_square(-3))
+
+```
 5.0 , 3.0으로 출력된 이유는 math.sqrt()가 소수점이 붙은 값을 돌려주기 때문
