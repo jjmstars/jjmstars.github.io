@@ -4,6 +4,9 @@ category: Algorithms
 tag: [Algorithms,Data_Structure] 
 ---
 
+# Summary :
+
+---
 알고리즘 **어떤 문제를 풀기 위한 절차나 방법** 
 어떤 문제가 있을 때 주어진 '입력' 정보를 원하는 '출력(답)' 정보로 만드는 일련의 과정을 구체적이고 명료하게 적은 것.
 
