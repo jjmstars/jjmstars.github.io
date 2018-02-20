@@ -1,5 +1,5 @@
 ---
-title: Algorithms 개념
+title: Algorithms 
 category: Algorithms
 tag: [Algorithms,Data_Structure] 
 ---
